@@ -142,8 +142,8 @@ Multi‑page Streamlit layout for better navigation
 ## 👤 Author
 
 **Marshenil Mitra**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/marshenilmitra)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/marshenilmitra)
+https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin
+https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github
 
 *Built with passion during CDAC PG‑DBDA – a demonstration of end‑to‑end ML engineering.*
 Built with passion during CDAC PG‑DBDA – a demonstration of end‑to‑end ML engineering.
