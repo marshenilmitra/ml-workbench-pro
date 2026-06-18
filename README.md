@@ -139,10 +139,10 @@ Multi‑page Streamlit layout for better navigation
 
 **Marshenil Mitra**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/marshenilmitra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/marshenilmitra)
 
-*Built with passion during CDAC PG‑DBDA – a demonstration of end‑to‑end ML engineering.*
+*Built with passion during CDAC PG-DBDA - a demonstration of end-to-end ML engineering.*
 
 📄 License
 This project is licensed under the MIT License – see  LICENSE file for details.
@@ -158,9 +158,9 @@ This project is licensed under the MIT License – see  LICENSE file for details
 ✅ Model leaderboard, Excel/ZIP export, auto‑insights
 ✅ Time‑series forecasting with ARIMA, SARIMA, Holt‑Winters
 
-🎥 Watch the 2‑minute demo: https://youtu.be/6M1gzKQooKw
-🌐 Live app: https://ml-workbench-pro.streamlit.app
-📂 GitHub: https://github.com/marshenilmitra/ml-workbench-pro
+🎬 [Watch the 2-minute demo](https://youtu.be/6M1gzKQooKw)  
+🌐 [Live app](https://ml-workbench-pro.streamlit.app)  
+📂 [GitHub Repository](https://github.com/marshenilmitra/ml-workbench-pro)  
 
 👨‍💻 Built with passion during my PG‑BDA (Big Data Analytics) at CDAC – ready for data science & ML roles.
 
