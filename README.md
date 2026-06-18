@@ -44,7 +44,7 @@ Built with **Streamlit**, **scikit‑learn**, and **statsmodels**.
 
 ## 🏗️ Architecture
 
-```
+
   ┌─────────────────────────────────────────────────┐
   │                STREAMLIT UI                     │
   │  (Technique → Dataset → Model → Hyperparams)    │
@@ -125,13 +125,14 @@ cd ml-workbench-pro
 pip install -r requirements.txt
 streamlit run app.py
 ```
+---
 ## 🔮 Future Enhancements
 * 🔄 Integrate `sklearn.pipeline` for production‑grade preprocessing
 * 🧠 Add SHAP / LIME for model explainability
 * 📈 Model experiment tracking with MLflow
 * 🔐 User authentication and saved experiment history
 * 🗂️ Multi‑page Streamlit layout for better navigation
-
+---
 ## 👤 Author
 
 **Marshenil Mitra**
@@ -139,11 +140,12 @@ streamlit run app.py
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/marshenilmitra)
 
-*Built with passion during CDAC PG-DBDA - a demonstration of end-to-end ML engineering.*
-
+*Built with passion during CDAC PG-BDA (Big Data Analytics) - a demonstration of end-to-end ML engineering.*
+---
 📄 License
 This project is licensed under the MIT License – see  LICENSE file for details.
 ---
+## 🚀 Overview & Quick Links
 🚀 I built ML Workbench Pro – an interactive machine learning platform that trains, evaluates, and exports models across 20 datasets and 22+ algorithms with zero code.
 
 🛠️ Built with Streamlit, scikit‑learn, and statsmodels.
@@ -159,9 +161,7 @@ This project is licensed under the MIT License – see  LICENSE file for details
 🌐 [Live app](https://ml-workbench-pro.streamlit.app)  
 📂 [GitHub Repository](https://github.com/marshenilmitra/ml-workbench-pro)  
  
- 
-
-👨‍💻 Built with passion during my PG‑BDA (Big Data Analytics) at CDAC – ready for data science & ML roles.
+👨‍💻 *Developed during my PG‑BDA (Big Data Analytics) at CDAC — actively seeking Data Science & ML engineering roles.*
 
 #MachineLearning #Streamlit #DataScience #BigData #CDAC #Python
 ---
