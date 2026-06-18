@@ -68,7 +68,7 @@ Built with **Streamlit**, **scikit‑learn**, and **statsmodels**.
   │  leaderboard      │   │ + warnings│   │          │
   └───────────────────┘   └──────────┘   └──────────┘
 
----
+
 
 ## 🧰 Tech Stack
 
@@ -80,7 +80,7 @@ Built with **Streamlit**, **scikit‑learn**, and **statsmodels**.
 | **Export** | xlsxwriter, pickle, zipfile |
 | **Version Control** | Git, GitHub |
 
----
+
 
 ## 📚 Supported Algorithms
 
@@ -113,7 +113,6 @@ ml-workbench-pro/
 ├── .gitignore
 └── README.md
 
----
 
 ## 🛠️ Run Locally
 
@@ -141,7 +140,7 @@ streamlit run app.py
 *Built with passion during CDAC PG-BDA (Big Data Analytics) - a demonstration of end-to-end ML engineering.*
 ---
 📄 License
-This project is licensed under the MIT License – see  LICENSE file for details.
+This project is licensed under the MIT License – see  [LICENSE](LICENSE) file for details.
 ---
 ## 🚀 Overview & Quick Links
 🚀 I built ML Workbench Pro – an interactive machine learning platform that trains, evaluates, and exports models across 20 datasets and 22+ algorithms with zero code.
