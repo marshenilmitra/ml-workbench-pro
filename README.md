@@ -18,7 +18,10 @@ Built with **Streamlit**, **scikit‑learn**, and **statsmodels**.
 *Click the link above to watch the 2‑minute walkthrough directly on GitHub.*
 ## 🎥 Demo Video
 
-[![Watch the 2‑minute demo](screenshots/dashboard_home.png)](https://github.com/marshenilmitra/ml-workbench-pro/raw/main/v1.mp4)
+[![Watch the 2‑minute demo](https://raw.githubusercontent.com/marshenilmitra/ml-workbench-pro/main/screenshots/dashboard_home.png)](https://github.com/marshenilmitra/ml-workbench-pro/blob/main/v1.mp4)
+
+*Click the image above to watch the walkthrough in GitHub’s built‑in player.*  
+*If it doesn't play, [view the video here](https://github.com/marshenilmitra/ml-workbench-pro/blob/main/v1.mp4).*
 ---
 ## 📸 Screenshots
 
@@ -141,7 +144,8 @@ Multi‑page Streamlit layout for better navigation
 
 ## 👤 Author
 
-**Marshenil Mitra**  
+**Marshenil Mitra**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/marshenilmitra)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/marshenilmitra)
 
