@@ -22,13 +22,12 @@ https://github.com/marshenilmitra/ml-workbench-pro/raw/main/v1.mp4
 
 | Supervised | Classification | Clustering | Time Series |
 |------------|----------------|------------|-------------|
-| ![Supervised](https://raw.githubusercontent.com/marshenilmitra/ml-workbench-pro/main/screenshots/dashboard_home.png) | ![Classification](https://raw.githubusercontent.com/marshenilmitra/ml-workbench-pro/main/screenshots/classification.png) | ![Clustering](https://raw.githubusercontent.com/marshenilmitra/ml-workbench-pro/main/screenshots/clustering.png) | ![Time Series](https://raw.githubusercontent.com/marshenilmitra/ml-workbench-pro/main/screenshots/timeseries.png) |
+| ![Supervised](screenshots/dashboard_home.png) | ![Classification](screenshots/classification.png) | ![Clustering](screenshots/clustering.png) | ![Time Series](screenshots/timeseries.png) |
 
 | Leaderboard | Data Profiling | Overfitting Detection |
 |-------------|----------------|-----------------------|
-| ![Leaderboard](https://raw.githubusercontent.com/marshenilmitra/ml-workbench-pro/main/screenshots/leaderboard.png) | ![Profiling](https://raw.githubusercontent.com/marshenilmitra/ml-workbench-pro/main/screenshots/data_profiling.png) | ![Overfitting](https://raw.githubusercontent.com/marshenilmitra/ml-workbench-pro/main/screenshots/overfitting.png) |
----
-
+| ![Leaderboard](screenshots/leaderboard.png) | ![Profiling](screenshots/data_profiling.png) | ![Overfitting](screenshots/overfitting.png) |
+----
 ## ✨ Features
 
 - **20 datasets** – regression, classification, clustering, time‑series, synthetic  
