@@ -8,15 +8,17 @@
 **An interactive machine learning experimentation platform.**  
 Train, evaluate, and export models on **20 datasets** using **22+ algorithms** – all with zero code.  
 Built with **Streamlit**, **scikit‑learn**, and **statsmodels**.
-
+🚀 **Live Demo:** [https://ml-workbench-pro.streamlit.app](https://ml-workbench-pro.streamlit.app)
 ---
-
-## 🎥 Demo Video
-
-https://github.com/marshenilmitra/ml-workbench-pro/raw/main/v1.mp4
+<video width="100%" controls>
+  <source src="https://github.com/marshenilmitra/ml-workbench-pro/raw/main/v1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 *Click the link above to watch the 2‑minute walkthrough directly on GitHub.*
+## 🎥 Demo Video
 
+[![Watch the 2‑minute demo](screenshots/dashboard_home.png)](https://github.com/marshenilmitra/ml-workbench-pro/raw/main/v1.mp4)
 ---
 ## 📸 Screenshots
 
@@ -46,29 +48,30 @@ https://github.com/marshenilmitra/ml-workbench-pro/raw/main/v1.mp4
 
 ## 🏗️ Architecture
 
-┌─────────────────────────────────────────────────────────────┐
-│ STREAMLIT UI │
-│ (Radio: Supervised/Unsup/T.S. → Dataset → Model → Params) │
-└──────────┬─────────────────────────────────┬───────────────┘
-│ │
-┌──────────▼──────────┐ ┌──────────────────▼───────────────┐
-│ DATA LOADER │ │ MODEL FACTORY │
-│ (seaborn, sklearn, │ │ (regression, classification, │
-│ synthetic datasets) │ │ clustering, time‑series) │
-└──────────┬──────────┘ └──────────────────┬───────────────┘
-│ │
-┌──────────▼─────────────────────────────────▼───────────────┐
-│ PREPROCESSING & TRAINING │
-│ LabelEncoder, datetime→numeric, inf/nan handling, scaling │
-│ sklearn models (LR, RF, SVR, …), statsmodels (ARIMA, …) │
-└──────────┬─────────────────────────────────────────────────┘
-│
-┌──────────▼──────────┐ ┌──────────────┐ ┌──────────────┐
-│ EVALUATION │ │ INSIGHTS │ │ EXPORT │
-│ metrics, CV, │ │ plain‑text │ │ Excel, pkl, │
-│ charts, │ │ explanations│ │ ZIP download│
-│ leaderboard │ │ + warnings │ │ │
-└─────────────────────┘ └──────────────┘ └──────────────┘
+```
+  ┌─────────────────────────────────────────────────┐
+  │                STREAMLIT UI                     │
+  │  (Technique → Dataset → Model → Hyperparams)    │
+  └────────┬───────────────────────────┬────────────┘
+           │                           │
+  ┌────────▼──────────┐   ┌────────────▼────────────┐
+  │   DATA LOADER     │   │      MODEL FACTORY      │
+  │ seaborn, sklearn,  │   │  regression, classif.,  │
+  │ synthetic datasets │   │  clustering, time-series│
+  └────────┬──────────┘   └────────────┬────────────┘
+           │                           │
+  ┌────────▼───────────────────────────▼────────────┐
+  │          PREPROCESSING & TRAINING               │
+  │  LabelEncoder, datetime→numeric, scaling,       │
+  │  inf/nan handling, sklearn/statsmodels models   │
+  └────────┬────────────────────────────────────────┘
+           │
+  ┌────────▼──────────┐   ┌──────────┐   ┌──────────┐
+  │   EVALUATION      │   │ INSIGHTS │   │  EXPORT  │
+  │  metrics, CV,     │   │ plain‑text│  │ Excel,   │
+  │  charts,          │   │ explanations│ │ pkl, ZIP │
+  │  leaderboard      │   │ + warnings│   │          │
+  └───────────────────┘   └──────────┘   └──────────┘
 
 ---
 
@@ -115,9 +118,6 @@ ml-workbench-pro/
 ├── v1.mp4 # Demo video (playable inline)
 ├── .gitignore
 └── README.md
-## 🚀 Live Demo
-
-Try it now: [https://your-app-url.streamlit.app](https://your-app-url.streamlit.app) *(after deploying to Streamlit Cloud)*
 
 ---
 
@@ -153,7 +153,7 @@ This project is licensed under the MIT License – see LICENSE file for details.
 
 ## 📌 Final notes
 
-- Replace `https://your-app-url.streamlit.app` with your actual Streamlit Cloud URL after deploying.  
-- Replace `https://linkedin.com/in/yourprofile` with your real LinkedIn profile.  
+- https://ml-workbench-pro.streamlit.app/  
+- www.linkedin.com/in/marshenilmitra 
 - The video link uses the **raw** URL to ensure playback. If you want to use the LinkedIn video instead, swap it with your LinkedIn activity link.  
-- Your repository is now **fully 12 LPA‑ready**. Copy this README, paste it on GitHub, and your project will shine.
+
