@@ -8,6 +8,7 @@
 **An interactive machine learning experimentation platform.**  
 Train, evaluate, and export models on **20 datasets** using **22+ algorithms** – all with zero code.  
 Built with **Streamlit**, **scikit‑learn**, and **statsmodels**.
+
 🚀 **Live Demo:** [https://ml-workbench-pro.streamlit.app](https://ml-workbench-pro.streamlit.app)
 ---
 <video width="100%" controls>
@@ -15,15 +16,11 @@ Built with **Streamlit**, **scikit‑learn**, and **statsmodels**.
   Your browser does not support the video tag.
 </video>
 
-*Click the link above to watch the 2‑minute walkthrough directly on GitHub.*
+*Click the link above to watch the 2‑minute walkthrough directly on youtube.*
 ## 🎥 Demo Video
 
 [![Watch the 2‑minute demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/6M1gzKQooKw)
 
-
-*Click the image above to watch the full walkthrough on YouTube (opens in a new tab).*
-*Click the image above to watch the walkthrough in GitHub’s built‑in player.*  
-*If it doesn't play, [view the video here](https://github.com/marshenilmitra/ml-workbench-pro/blob/main/v1.mp4).*
 ---
 ## 📸 Screenshots
 
@@ -155,13 +152,11 @@ Multi‑page Streamlit layout for better navigation
 
 📄 License
 This project is licensed under the MIT License – see LICENSE file for details.
-
-
 ---
 
 ## 📌 Final notes
 
 - https://ml-workbench-pro.streamlit.app/  
 - www.linkedin.com/in/marshenilmitra 
-- The video link uses the **raw** URL to ensure playback. If you want to use the LinkedIn video instead, swap it with your LinkedIn activity link.  
+-   
 
