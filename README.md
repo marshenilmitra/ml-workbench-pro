@@ -124,6 +124,7 @@ git clone https://github.com/marshenilmitra/ml-workbench-pro.git
 cd ml-workbench-pro
 pip install -r requirements.txt
 streamlit run app.py
+```
 🔮 Future Enhancements
 Integrate sklearn.pipeline for production‑grade preprocessing
 
