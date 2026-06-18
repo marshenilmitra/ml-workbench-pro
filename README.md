@@ -41,32 +41,31 @@ Built with **Streamlit**, **scikit‑learn**, and **statsmodels**.
 - **Clean, responsive UI** – badges, spinners, expanders, dark/light friendly  
 
 
-## 🏗️ Architecture
-
-
-  ┌─────────────────────────────────────────────────┐
-  │                STREAMLIT UI                     │
-  │  (Technique → Dataset → Model → Hyperparams)    │
-  └────────┬───────────────────────────┬────────────┘
-           │                           │
-  ┌────────▼──────────┐   ┌────────────▼────────────┐
-  │   DATA LOADER     │   │      MODEL FACTORY      │
-  │ seaborn, sklearn,  │   │  regression, classif.,  │
-  │ synthetic datasets │   │  clustering, time-series│
-  └────────┬──────────┘   └────────────┬────────────┘
-           │                           │
-  ┌────────▼───────────────────────────▼────────────┐
-  │          PREPROCESSING & TRAINING               │
-  │  LabelEncoder, datetime→numeric, scaling,       │
-  │  inf/nan handling, sklearn/statsmodels models   │
-  └────────┬────────────────────────────────────────┘
-           │
-  ┌────────▼──────────┐   ┌──────────┐   ┌──────────┐
-  │   EVALUATION      │   │ INSIGHTS │   │  EXPORT  │
-  │  metrics, CV,     │   │ plain‑text│  │ Excel,   │
-  │  charts,          │   │ explanations│ │ pkl, ZIP │
-  │  leaderboard      │   │ + warnings│   │          │
-  └───────────────────┘   └──────────┘   └──────────┘
+```text
+  ┌─────────────────────────────────────────────────────────┐
+  │                      STREAMLIT UI                       │
+  │      (Technique → Dataset → Model → Hyperparams)        │
+  └────────────┬───────────────────────────────┬────────────┘
+               │                               │
+  ┌────────────▼─────────────┐    ┌────────────▼────────────┐
+  │       DATA LOADER        │    │      MODEL FACTORY      │
+  │ seaborn, sklearn,        │    │  regression, classif.,  │
+  │ synthetic datasets       │    │  clustering, time-series│
+  └────────────┬─────────────┘    └────────────┬────────────┘
+               │                               │
+  ┌────────────▼───────────────────────────────▼────────────┐
+  │                PREPROCESSING & TRAINING                 │
+  │    LabelEncoder, datetime→numeric, scaling, inf/nan     │
+  └────────────────────────────┬────────────────────────────┘
+                               │
+         ┌─────────────────────┼─────────────────────┐
+  ┌──────▼──────┐       ┌──────▼──────┐       ┌──────▼──────┐
+  │ EVALUATION  │       │  INSIGHTS   │       │   EXPORT    │
+  │ metrics, CV,│       │ plain-text  │       │  Excel,     │
+  │ charts,     │       │ explanat.   │       │  pkl, ZIP   │
+  │ leaderboard │       │ + warnings  │       │             │
+  └─────────────┘       └─────────────┘       └─────────────┘
+```
 
 
 
@@ -96,23 +95,22 @@ K‑Means, Agglomerative Clustering, DBSCAN, Gaussian Mixture, PCA, t‑SNE
 ### Time Series Forecasting
 ARIMA, SARIMA, Holt‑Winters, Holt’s Linear Trend, Simple Moving Average
 
-
-## 📂 Project Structure
+```text
 ml-workbench-pro/
-├── app.py # Main Streamlit application
-├── requirements.txt # Python dependencies
-├── screenshots/ # App screenshots
-│ ├── dashboard_home.png
-│ ├── classification.png
-│ ├── clustering.png
-│ ├── timeseries.png
-│ ├── leaderboard.png
-│ ├── data_profiling.png
-│ └── overfitting.png
-├── v1.mp4 # Demo video (playable inline)
+├── app.py              # Main Streamlit application
+├── requirements.txt    # Python dependencies
 ├── .gitignore
-└── README.md
-
+├── README.md
+├── v1.mp4              # Demo video (playable inline)
+└── screenshots/        # App screenshots
+    ├── dashboard_home.png
+    ├── classification.png
+    ├── clustering.png
+    ├── timeseries.png
+    ├── leaderboard.png
+    ├── data_profiling.png
+    └── overfitting.png
+```
 
 ## 🛠️ Run Locally
 
