@@ -13,6 +13,7 @@ Built with **Streamlit**, **scikit‑learn**, and **statsmodels**.
 ---
 ## 🎥 Demo Video
 [![Watch the 2‑minute demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/6M1gzKQooKw)
+
 *Click the image above to watch the full walkthrough on YouTube.*
 ---
 ## 📸 Screenshots
