@@ -43,6 +43,7 @@ Built with **Streamlit**, **scikit‑learn**, and **statsmodels**.
 
 ```text
 Architecture
+
   ┌─────────────────────────────────────────────────────────┐
   │                      STREAMLIT UI                       │
   │      (Technique → Dataset → Model → Hyperparams)        │
@@ -68,8 +69,6 @@ Architecture
   └─────────────┘       └─────────────┘       └─────────────┘
 ```
 
-
-
 ## 🧰 Tech Stack
 
 | Category | Tools |
@@ -79,7 +78,6 @@ Architecture
 | **Visualization** | Matplotlib, Seaborn |
 | **Export** | xlsxwriter, pickle, zipfile |
 | **Version Control** | Git, GitHub |
-
 
 
 ## 📚 Supported Algorithms
@@ -98,6 +96,7 @@ ARIMA, SARIMA, Holt‑Winters, Holt’s Linear Trend, Simple Moving Average
 
 ```text
 Project Structure
+
 ml-workbench-pro/
 ├── app.py              # Main Streamlit application
 ├── requirements.txt    # Python dependencies
