@@ -18,17 +18,15 @@ https://github.com/marshenilmitra/ml-workbench-pro/raw/main/v1.mp4
 *Click the link above to watch the 2‑minute walkthrough directly on GitHub.*
 
 ---
-
 ## 📸 Screenshots
 
 | Supervised | Classification | Clustering | Time Series |
 |------------|----------------|------------|-------------|
-| ![Supervised](screenshots/dashboard_home.png) | ![Classification](screenshots/classification.png) | ![Clustering](screenshots/clustering.png) | ![Time Series](screenshots/timeseries.png) |
+| ![Supervised](https://raw.githubusercontent.com/marshenilmitra/ml-workbench-pro/main/screenshots/dashboard_home.png) | ![Classification](https://raw.githubusercontent.com/marshenilmitra/ml-workbench-pro/main/screenshots/classification.png) | ![Clustering](https://raw.githubusercontent.com/marshenilmitra/ml-workbench-pro/main/screenshots/clustering.png) | ![Time Series](https://raw.githubusercontent.com/marshenilmitra/ml-workbench-pro/main/screenshots/timeseries.png) |
 
 | Leaderboard | Data Profiling | Overfitting Detection |
 |-------------|----------------|-----------------------|
-| ![Leaderboard](screenshots/leaderboard.png) | ![Profiling](screenshots/data_profiling.png) | ![Overfitting](screenshots/overfitting.png) |
-
+| ![Leaderboard](https://raw.githubusercontent.com/marshenilmitra/ml-workbench-pro/main/screenshots/leaderboard.png) | ![Profiling](https://raw.githubusercontent.com/marshenilmitra/ml-workbench-pro/main/screenshots/data_profiling.png) | ![Overfitting](https://raw.githubusercontent.com/marshenilmitra/ml-workbench-pro/main/screenshots/overfitting.png) |
 ---
 
 ## ✨ Features
@@ -48,6 +46,7 @@ https://github.com/marshenilmitra/ml-workbench-pro/raw/main/v1.mp4
 ---
 
 ## 🏗️ Architecture
+
 ┌─────────────────────────────────────────────────────────────┐
 │ STREAMLIT UI │
 │ (Radio: Supervised/Unsup/T.S. → Dataset → Model → Params) │
@@ -71,8 +70,6 @@ https://github.com/marshenilmitra/ml-workbench-pro/raw/main/v1.mp4
 │ charts, │ │ explanations│ │ ZIP download│
 │ leaderboard │ │ + warnings │ │ │
 └─────────────────────┘ └──────────────┘ └──────────────┘
-
-text
 
 ---
 
