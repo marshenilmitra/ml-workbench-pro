@@ -11,16 +11,9 @@ Built with **Streamlit**, **scikit‑learn**, and **statsmodels**.
 
 🚀 **Live Demo:** [https://ml-workbench-pro.streamlit.app](https://ml-workbench-pro.streamlit.app)
 ---
-<video width="100%" controls>
-  <source src="https://github.com/marshenilmitra/ml-workbench-pro/raw/main/v1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-*Click the link above to watch the 2‑minute walkthrough directly on youtube.*
 ## 🎥 Demo Video
-
 [![Watch the 2‑minute demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/6M1gzKQooKw)
-
+*Click the image above to watch the full walkthrough on YouTube.*
 ---
 ## 📸 Screenshots
 
@@ -152,6 +145,28 @@ Multi‑page Streamlit layout for better navigation
 
 📄 License
 This project is licensed under the MIT License – see LICENSE file for details.
+---
+
+## 🔗 LinkedIn Post (copy‑paste, attach the video or thumbnail)
+
+🚀 I built ML Workbench Pro – an interactive machine learning platform that trains, evaluates, and exports models across 20 datasets and 22+ algorithms with zero code.
+
+🛠️ Built with Streamlit, scikit‑learn, and statsmodels.
+
+🔍 What it does:
+✅ Filters compatible models for each dataset
+✅ 5‑fold cross‑validation + overfitting detection
+✅ Data profiling with quality scoring
+✅ Model leaderboard, Excel/ZIP export, auto‑insights
+✅ Time‑series forecasting with ARIMA, SARIMA, Holt‑Winters
+
+🎥 Watch the 2‑minute demo: https://youtu.be/6M1gzKQooKw
+🌐 Live app: https://ml-workbench-pro.streamlit.app
+📂 GitHub: https://github.com/marshenilmitra/ml-workbench-pro
+
+👨‍💻 Built during my PG‑BDA at CDAC – looking for data science & ML roles.
+
+#MachineLearning #Streamlit #DataScience #BigData #CDAC #Python
 ---
 
 ## 📌 Final notes
