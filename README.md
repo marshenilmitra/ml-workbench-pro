@@ -42,6 +42,7 @@ Built with **Streamlit**, **scikit‑learn**, and **statsmodels**.
 
 
 ```text
+Architecture
   ┌─────────────────────────────────────────────────────────┐
   │                      STREAMLIT UI                       │
   │      (Technique → Dataset → Model → Hyperparams)        │
