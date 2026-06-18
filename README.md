@@ -97,6 +97,7 @@ K‑Means, Agglomerative Clustering, DBSCAN, Gaussian Mixture, PCA, t‑SNE
 ARIMA, SARIMA, Holt‑Winters, Holt’s Linear Trend, Simple Moving Average
 
 ```text
+Project Structure
 ml-workbench-pro/
 ├── app.py              # Main Streamlit application
 ├── requirements.txt    # Python dependencies
