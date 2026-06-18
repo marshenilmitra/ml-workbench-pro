@@ -125,16 +125,12 @@ cd ml-workbench-pro
 pip install -r requirements.txt
 streamlit run app.py
 ```
-🔮 Future Enhancements
-Integrate sklearn.pipeline for production‑grade preprocessing
-
-Add SHAP / LIME for model explainability
-
-Model experiment tracking with MLflow
-
-User authentication and saved experiment history
-
-Multi‑page Streamlit layout for better navigation
+## 🔮 Future Enhancements
+* 🔄 Integrate `sklearn.pipeline` for production‑grade preprocessing
+* 🧠 Add SHAP / LIME for model explainability
+* 📈 Model experiment tracking with MLflow
+* 🔐 User authentication and saved experiment history
+* 🗂️ Multi‑page Streamlit layout for better navigation
 
 ## 👤 Author
 
