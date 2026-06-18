@@ -40,7 +40,6 @@ Built with **Streamlit**, **scikit‑learn**, and **statsmodels**.
 - **Automatic insights** – explains model performance in plain English  
 - **Clean, responsive UI** – badges, spinners, expanders, dark/light friendly  
 
----
 
 ## 🏗️ Architecture
 
@@ -97,7 +96,6 @@ K‑Means, Agglomerative Clustering, DBSCAN, Gaussian Mixture, PCA, t‑SNE
 ### Time Series Forecasting
 ARIMA, SARIMA, Holt‑Winters, Holt’s Linear Trend, Simple Moving Average
 
----
 
 ## 📂 Project Structure
 ml-workbench-pro/
