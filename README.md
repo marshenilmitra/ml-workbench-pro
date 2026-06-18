@@ -18,7 +18,8 @@ Built with **Streamlit**, **scikit‑learn**, and **statsmodels**.
 *Click the link above to watch the 2‑minute walkthrough directly on GitHub.*
 ## 🎥 Demo Video
 
-[![Watch the 2‑minute demo](https://img.youtube.com/vi/XXXXX/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/6M1gzKQooKw?si=5u-kQdd7-FYzEFQV)
+[![Watch the 2‑minute demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/6M1gzKQooKw)
+
 
 *Click the image above to watch the full walkthrough on YouTube (opens in a new tab).*
 *Click the image above to watch the walkthrough in GitHub’s built‑in player.*  
