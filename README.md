@@ -139,17 +139,14 @@ Multi‑page Streamlit layout for better navigation
 
 **Marshenil Mitra**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/marshenilmitra)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/marshenilmitra)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/marshenilmitra)
 
 *Built with passion during CDAC PG‑DBDA – a demonstration of end‑to‑end ML engineering.*
 
 📄 License
-This project is licensed under the MIT License – see LICENSE file for details.
+This project is licensed under the MIT License – see  LICENSE file for details.
 ---
-
-## 🔗 LinkedIn Post (copy‑paste, attach the video or thumbnail)
-
 🚀 I built ML Workbench Pro – an interactive machine learning platform that trains, evaluates, and exports models across 20 datasets and 22+ algorithms with zero code.
 
 🛠️ Built with Streamlit, scikit‑learn, and statsmodels.
@@ -165,14 +162,8 @@ This project is licensed under the MIT License – see LICENSE file for details.
 🌐 Live app: https://ml-workbench-pro.streamlit.app
 📂 GitHub: https://github.com/marshenilmitra/ml-workbench-pro
 
-👨‍💻 Built during my PG‑BDA at CDAC – looking for data science & ML roles.
+👨‍💻 Built with passion during my PG‑BDA (Big Data Analytics) at CDAC – ready for data science & ML roles.
 
 #MachineLearning #Streamlit #DataScience #BigData #CDAC #Python
 ---
-
-## 📌 Final notes
-
-- https://ml-workbench-pro.streamlit.app/  
-- www.linkedin.com/in/marshenilmitra 
--   
-
+📢 **LinkedIn post about this project:** [View on LinkedIn](https://www.linkedin.com/posts/marshenilmitra_machinelearning-streamlit-datascience-activity-7473371351504973824-3OsP)
